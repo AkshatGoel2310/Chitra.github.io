@@ -1,0 +1,146 @@
+body {
+  background-color: black;
+  margin: 0;
+  line-height: 2 ;
+
+}
+
+h1 {
+  font-size: 100px;
+  margin: 0 auto 10px auto;
+}
+a {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3e4e88;
+}
+
+hr {
+height: 2px;
+width: 10%;
+border-style: dotted none none;
+border-width: 10px;
+border-color: grey;
+margin: 50px auto;
+background-color: black;
+}
+ul {
+  display: inline;
+}
+                              /* CONTAINERS */
+
+.top-container {
+  padding-top: 50px;
+  font-family: 'Lobster', cursive;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+                               /* Updates*/
+
+.middle-container {
+top:40px;
+padding-bottom: 50px;
+font-family: 'Notable', sans-serif;
+color: white;
+text-align: center;
+background-color: black;
+}
+
+.Smoke {
+  height: 400px;
+  width:1350px;
+}
+
+.Images{
+  height: 300px;
+  width: 300px;
+}
+
+.img-box {
+  text-align:center;
+  margin-top: 30px;
+}
+                          /* testimonials */
+#testimonials {
+text-align: center;
+background-color: black;
+color: #dddddd;
+}
+
+.carousel-item {
+padding: 5% 15% 0;
+}
+
+.Test {
+  top:40px;
+  font-family: 'Notable', sans-serif;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+.Chitra {
+  background-color: black;
+  color: black;
+  padding-left: 30px;
+  border-bottom: solid;
+  border-color: white;
+  border-radius: 200px;
+}
+
+.X {
+    font-size: 20px;
+}
+
+                            /* Contact */
+
+.Contact {
+  top:40px;
+  font-family: 'Notable', sans-serif;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+.download-button {
+ margin:3%;
+}
+
+.phone {
+  padding-left: 10px;
+}
+
+.btn {
+  background: #3f3f44;
+  color:black;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 20px auto 50px auto;
+}
+
+.btn:hover {
+  background: #888888;
+  text-decoration: none;
+}
+                            /* Bottom Container*/
+.bottom-container {
+  background-color: #3f3f44;
+  width: 100%;
+  padding: 20px 0 15px;
+  color: white;
+  text-align: center;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
